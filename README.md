@@ -1,5 +1,6 @@
 # [cyberaki.pl](http://www.cyberaki.pl)
 
+- seria książek edukacyjnych dla przyszyłych inżynierów bezpieczeństwa
 
 ![cyberaki](https://github.com/kodziaki/www/assets/5669657/1f375bc6-d7fb-4ee2-add9-a42cbcbd0872)
 
