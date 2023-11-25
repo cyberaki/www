@@ -7,11 +7,14 @@
 ## Wiedza o zabezpieczeniach, CyberSecurity:
 + cyberaki w niebezpieczeństwie: cyberzagadki
 + cyberaki w niebezpieczeństwie: cyberkot ratuje misia
-+ cyberaki w niebezpieczeństwie: kot szyfrowy
-+ cyberaki w niebezpieczeństwie: kot dostępu
-+ cyberaki w niebezpieczeństwie: kot identyfikacyjny
-+ cyberaki w niebezpieczeństwie: kot śledzący
-+ cyberaki w niebezpieczeństwie: kot zagnieżdżony
+  
++ kot szyfrowy: cyberaki i haki
++ kot dostępu: cyberaki i haki
++ kot identyfikacyjny: cyberaki i haki
++ kot kreskowy: cyberaki i haki
++ kot QR: cyberaki i haki
++ kot śledzący: cyberaki i haki
++ kot zagnieżdżony: cyberaki i haki
 
 
 
